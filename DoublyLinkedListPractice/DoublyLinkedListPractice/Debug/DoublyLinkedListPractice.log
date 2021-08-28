@@ -1,0 +1,3 @@
+﻿  DoublyLinkedList.cpp
+C:\Users\astanciu\source\repos\DoublyLinkedListPractice\DoublyLinkedListPractice\DoublyLinkedList.cpp(107,17): warning C4018: '>': signed/unsigned mismatch
+  DoublyLinkedListPractice.vcxproj -> C:\Users\astanciu\source\repos\DoublyLinkedListPractice\Debug\DoublyLinkedListPractice.exe
